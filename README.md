@@ -9,7 +9,7 @@
 - 수빈 : [1주차 스터디 내용 정리](https://www.notion.so/Week-1-Study-c34d71afb24341448066900666103e8a)
 
 - 대희 : [코틀린 정리](https://kim-daehee123.github.io/kotlin)
-- 은영 : [Collection & 제네릭](https://www.notion.so/Collection-1fda81c8531c4ec5b25e913689b1b3b4)
+- 은영 : [Collection & 제네릭 정리](https://www.notion.so/Collection-1fda81c8531c4ec5b25e913689b1b3b4)
 
 ------
 
